@@ -1,0 +1,96 @@
+body{
+    background-color:darksalmon;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ .caja{
+    margin: 12px;
+    background-color: black;
+    font-size: 23px;
+    color: aquamarine;
+    border: solid  12px;
+    border-color: bisque;
+    
+
+ }
+
+ .imagen-reducida {
+    width: 40%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+
+
+h1 {
+    color: blue;
+    font-size: 2em;
+  }
+  
+  p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5em;
+  }
+  
+  h2 {
+    color: green;
+    font-size: 1.5em;
+  }
+  .imagen-reducida {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+  .imagen-reducida {
+    width: 30%; /* Adjust the width as needed */
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+    
+  ul {
+    list-style: disc;
+    padding-left: 1em;
+  }
+  
+  li {
+    margin-bottom: 0.5em;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .introduccion {
+    text-align: center;
+  }
+  
+  .indice {
+    padding: 1em;
+    border: 1px solid #ccc;
+  }
+  
+  .html, .css, .ejemplos, .recursos {
+    padding: 2em;
+    border: 1px solid #ccc;
+  }
+  
+
+  
+  .recursos ul {
+    padding: 0;
+  }
+  
+  .recursos li {
+    display: inline-block;
+    margin: 1em;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1em;
+    border-top: 1px solid #ccc;
+  }
+  
+  
